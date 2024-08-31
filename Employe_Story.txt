@@ -1,0 +1,6 @@
+Employee ID must be Universally Unique Identifier(UUID)
+Employee Name must be String and not allow null value
+Designation must be String value and not allow null value
+Mobile must be Integer value Must have Ten digit
+Email  must be String and not allow null value and email format
+Date Of Birth must be Date format (1990-04-25) and not allow null
